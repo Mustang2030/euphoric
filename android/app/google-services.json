@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909820053313",
+    "project_id": "euphoric-solutions",
+    "storage_bucket": "euphoric-solutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909820053313:android:dfeff08890512d598243c0",
+        "android_client_info": {
+          "package_name": "com.example.euphoric"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEB1Za0eQCHVbYJFUlftn9bjYgTjh_Z5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
